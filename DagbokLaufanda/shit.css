@@ -1,0 +1,15 @@
+h1 {
+    font-family: Milonguita;
+}
+
+img {
+    border: 8px solid #eeeeee;
+}
+
+.header {
+    position: absolute;
+    top: 0;
+    padding: 60px;
+    text-align: center;
+    font-family: Josefin Sans;
+}
